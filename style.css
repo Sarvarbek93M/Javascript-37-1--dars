@@ -1,0 +1,19 @@
+.box{
+  width: 600px;
+  height: 400px;
+  overflow: scroll;
+  margin: 70px auto;
+  background: yellowgreen;
+  border-radius: 1%;
+  border: 2px solid black;
+}
+
+button{
+  position: relative;
+  left: 60%;
+}
+button:hover{
+  cursor: pointer;
+  background-color: black;
+  color: antiquewhite;
+}
